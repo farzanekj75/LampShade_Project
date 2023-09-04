@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0_Framework
+namespace _0_Framework.Domain
 {
     public class EntityBase
     {
@@ -13,8 +13,8 @@ namespace _0_Framework
 
         public EntityBase()
         {
-           
-            CreationDate = DateTime.Now ;
+
+            CreationDate = DateTime.Now;
         }
     }
 }

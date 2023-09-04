@@ -16,7 +16,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "ShopManagement.Domain": "1.0.0"
+          "0_Framework": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ShopManagement.Application.Contracts.dll": {}
@@ -29,7 +29,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "0_Framework": "1.0.0"
+          "0_Framework": "1.0.0",
+          "ShopManagement.Application.Contracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ShopManagement.Domain.dll": {}
@@ -59,7 +60,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "ShopManagement.Application.Contracts >= 1.0.0"
+      "ShopManagement.Application.Contracts >= 1.0.0",
+      "ShopManagement.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -96,6 +98,9 @@
           "projectReferences": {
             "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
               "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+            },
+            "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
             }
           }
         }

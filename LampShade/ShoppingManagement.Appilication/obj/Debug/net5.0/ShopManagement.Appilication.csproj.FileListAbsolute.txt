@@ -1,0 +1,5 @@
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ShoppingManagement.Appilication\obj\Debug\net5.0\ShopManagement.Appilication.csproj.AssemblyReference.cache
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ShoppingManagement.Appilication\obj\Debug\net5.0\ShopManagement.Appilication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ShoppingManagement.Appilication\obj\Debug\net5.0\ShopManagement.Appilication.AssemblyInfoInputs.cache
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ShoppingManagement.Appilication\obj\Debug\net5.0\ShopManagement.Appilication.AssemblyInfo.cs
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ShoppingManagement.Appilication\obj\Debug\net5.0\ShopManagement.Appilication.csproj.CoreCompileInputs.cache
