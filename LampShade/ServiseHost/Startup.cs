@@ -53,6 +53,7 @@ namespace ServiseHost
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
+               
             });
         }
     }
