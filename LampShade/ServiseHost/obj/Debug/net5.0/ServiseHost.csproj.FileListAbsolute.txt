@@ -163,3 +163,6 @@ C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\bin\Debug
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Index.cshtml.g.cs
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Create.cshtml.g.cs
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Edit.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Create.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Edit.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Index.cshtml.g.cs
