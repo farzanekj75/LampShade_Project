@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.VisualStudio.Web.CodeGeneration.Contracts.Messaging;
 using ShopManagement.Appilication;
 using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Application.Contracts.ProductCategory;
@@ -10,6 +11,8 @@ namespace ServiseHost.Areas.Administration.Pages.Shop.Products
 {
     public class IndexModel : PageModel
     {
+        [TempData]
+        public string Message { get; set; }
         public ProductSearchModel SearchModel;
         public List<ProductViewModel> Products;
         public SelectList ProductCategories;
@@ -31,7 +34,11 @@ namespace ServiseHost.Areas.Administration.Pages.Shop.Products
         }
         public IActionResult OnGetCreate()
         {
-            return Partial("./Create", new CreateProduct());
+            var command = new CreateProduct
+            {
+                Categories = _productCategoryAppilcation.GetProductCategories()
+            };
+            return Partial("./Create", command);
         }
         public JsonResult OnPostCreate(CreateProduct command)
         {
@@ -41,12 +48,30 @@ namespace ServiseHost.Areas.Administration.Pages.Shop.Products
         public IActionResult OnGetEdit(long id)
         {
             var product = _productAppilcation.GetDetails(id);
+            product.Categories = _productCategoryAppilcation.GetProductCategories();
             return Partial("Edit", product);
         }
         public JsonResult OnPostEdit(EditProduct command)
         {
             var result = _productAppilcation.Edit(command);
             return new JsonResult(result);
+        }
+
+        public IActionResult OnGetNotInStock(long id)
+        {
+            var result = _productAppilcation.NotInStock(id);
+            if (result.IsSuccedded)
+                return RedirectToPage("./Index");
+            Message = result.Message;
+            return RedirectToPage("./Index");
+        }
+        public IActionResult OnGetIsInStock(long id)
+        {
+           var result = _productAppilcation.IsStock(id);
+            if (result.IsSuccedded)
+                return RedirectToPage("./Index");
+            Message = result.Message;
+            return RedirectToPage("./Index");
         }
     }
 }

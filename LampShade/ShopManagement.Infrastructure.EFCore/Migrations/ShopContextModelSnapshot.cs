@@ -67,7 +67,8 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
                         .HasColumnType("nvarchar(255)");
 
                     b.Property<string>("PictureTitle")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
 
                     b.Property<string>("ShortDescription")
                         .IsRequired()

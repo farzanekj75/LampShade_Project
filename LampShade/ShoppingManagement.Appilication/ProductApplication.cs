@@ -13,6 +13,12 @@ namespace ShopManagement.Appilication
     public class ProductApplication : IProductApplication
     {
         private readonly IProductRepository _productRepository;
+
+        public ProductApplication(IProductRepository productRepository)
+        {
+            _productRepository = productRepository;
+        }
+
         public OperationResult Create(CreateProduct command)
         {
            var operation = new OperationResult();
