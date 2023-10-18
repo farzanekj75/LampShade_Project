@@ -18,10 +18,10 @@ namespace ServiseHost.Areas.Administration.Pages.Shop.Products
         public SelectList ProductCategories;
 
         private readonly IProductApplication _productAppilcation;
-        private readonly IProductCategoryAppilcation _productCategoryAppilcation;
+        private readonly IProductPictureAppilcation _productCategoryAppilcation;
 
         public IndexModel(IProductApplication productAppilcation ,
-            IProductCategoryAppilcation productCategoryAppilcation)
+            IProductPictureAppilcation productCategoryAppilcation)
         {
             _productAppilcation = productAppilcation;
             _productCategoryAppilcation = productCategoryAppilcation;

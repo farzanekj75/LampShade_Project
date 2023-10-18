@@ -9,9 +9,9 @@ namespace ServiseHost.Areas.Administration.Pages.Shop.ProductCategories
     {
         public ProductCategorySearchModel SearchModel;
         public List<ProductCategoryViewModel> ProductCategories;
-        private readonly IProductCategoryAppilcation _productCategoryAppilcation;
+        private readonly IProductPictureAppilcation _productCategoryAppilcation;
 
-        public IndexModel(IProductCategoryAppilcation productCategoryAppilcation)
+        public IndexModel(IProductPictureAppilcation productCategoryAppilcation)
         {
             _productCategoryAppilcation = productCategoryAppilcation;
         }

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ShopManagement.Appilication
 {
-    public class ProductCategoryApplication : IProductCategoryAppilcation
+    public class ProductCategoryApplication : IProductPictureAppilcation
     {
         private readonly IProductCategoryRepository _productCategoryRepository;
 
