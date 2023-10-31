@@ -15,6 +15,11 @@ namespace ShopManagement.Appilication
     {
         private readonly IProductPictureRepository _productPictureRepository;
 
+        public ProductPictureApplication(IProductPictureRepository productPictureRepository)
+        {
+            _productPictureRepository = productPictureRepository;     
+        }
+
         public OperationResult Create(CreateProductPicture command)
         {
           var operation = new OperationResult();
@@ -34,7 +39,7 @@ namespace ShopManagement.Appilication
             if (productPicture == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
-            if (_productPictureRepository.Exists(x => x.Picture == command.Picture && x.ProductId == command.ProductId && x.Id == command.Id))
+            if (_productPictureRepository.Exists(x => x.Picture == command.Picture && x.ProductId == command.ProductId && x.Id != command.Id))
                 return operation.Failed(ApplicationMessages.DuplicateRecord);
 
             productPicture.Edit(command.ProductId, command.Picture, command.PictureAlt, command.PictureTitle);
