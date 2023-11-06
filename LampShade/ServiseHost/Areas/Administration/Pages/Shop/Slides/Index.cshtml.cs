@@ -1,11 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.VisualStudio.Web.CodeGeneration.Contracts.Messaging;
-using ShopManagement.Appilication;
-using ShopManagement.Application.Contracts.Product;
-using ShopManagement.Application.Contracts.ProductCategory;
-using ShopManagement.Application.Contracts.ProductPicture;
 using ShopManagement.Application.Contracts.Slide;
 using System.Collections.Generic;
 
