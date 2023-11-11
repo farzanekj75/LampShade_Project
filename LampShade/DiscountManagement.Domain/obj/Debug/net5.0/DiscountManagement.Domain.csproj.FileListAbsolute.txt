@@ -1,0 +1,17 @@
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Domain.deps.json
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Domain.dll
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\bin\Debug\net5.0\0_Framework.dll
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\bin\Debug\net5.0\0_Framework.pdb
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.AssemblyInfo.cs
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.csproj.CopyComplete
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.dll
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\obj\Debug\net5.0\refint\DiscountManagement.Domain.dll
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\obj\Debug\net5.0\DiscountManagement.Domain.pdb
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\DiscountManagement.Domain\obj\Debug\net5.0\ref\DiscountManagement.Domain.dll

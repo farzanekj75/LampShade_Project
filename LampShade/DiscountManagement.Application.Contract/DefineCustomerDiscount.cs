@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using ShopManagement.Application.Contracts.Product;
 
 namespace DiscountManagement.Application.Contract
 {
@@ -13,6 +10,7 @@ namespace DiscountManagement.Application.Contract
         public string StartDate { get;  set; }
         public string EndDate { get;  set; }
         public string Reason { get;  set; }
+        public List<ProductViewModel> Products { get; set; }
     }
 
 }

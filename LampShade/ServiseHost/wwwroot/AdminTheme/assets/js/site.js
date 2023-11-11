@@ -31,6 +31,11 @@ function hideModal() {
 $(document).ready(function () {
     window.onhashchange = function () {
         SinglePage.LoadModal();
+        $('.persianDateInput').persianDatepicker({
+            format: 'YYYY/MM/DD',
+            autoClose: true,
+            initialValueType: "persian"
+        });
     };
     $("#MainModal").on("shown.bs.modal",
         function () {

@@ -1,5 +1,6 @@
 ﻿using _0_Framework.Application;
 using DiscountManagement.Application.Contract;
+using DiscountManagement.Domain.CustomerDiscountAgg;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,31 +11,50 @@ namespace DiscountManagement.Application
 {
     public class CustomerDiscountApplication : ICustomerDiscountApplication
     {
-        private readonly ICustomerDiscountApplication _customerDiscountApplication;
-
-        public CustomerDiscountApplication(ICustomerDiscountApplication customerDiscountApplication)
-        {
-            _customerDiscountApplication = customerDiscountApplication;
-        }
+        private readonly ICustomerDiscountRepository _customerDiscountRepository;
 
         public OperationResult Define(DefineCustomerDiscount command)
         {
-            throw new NotImplementedException();
+            var operation = new OperationResult();
+            if (_customerDiscountRepository.Exists(x => x.ProductId == command.ProductId && x.DiscountRate == command.DiscountRate))
+                return operation.Failed(ApplicationMessages.DuplicateRecord);
+
+            var startDate = command.StartDate.ToGeorgianDateTime();
+            var endDate = command.EndDate.ToGeorgianDateTime();
+            var customerDiscount = new CustomerDiscount(command.ProductId, command.DiscountRate,
+                startDate, endDate, command.Reason);
+            _customerDiscountRepository.Create(customerDiscount);
+            _customerDiscountRepository.SaveChanges();
+            return operation.Succedded();
         }
 
         public OperationResult Edit(EditCustomerDiscount command)
         {
-            throw new NotImplementedException();
+            var operation = new OperationResult();
+            var customerDiscount = _customerDiscountRepository.Get(command.Id);
+
+            if(customerDiscount == null)
+                return operation.Failed(ApplicationMessages.RecordNotFound);
+
+            if(_customerDiscountRepository.Exists(x => x.ProductId == command.ProductId 
+            && x.DiscountRate == command.DiscountRate && x.Id != command.Id))
+                return operation.Failed(ApplicationMessages.DuplicateRecord);
+
+            var startDate = command.StartDate.ToGeorgianDateTime();
+            var endDate = command.EndDate.ToGeorgianDateTime();
+            customerDiscount.Edit(command.ProductId, command.DiscountRate, startDate, endDate, command.Reason);
+            _customerDiscountRepository.SaveChanges();
+            return operation.Succedded();
         }
 
         public EditCustomerDiscount GetDetails(long id)
         {
-            throw new NotImplementedException();
+            return _customerDiscountRepository.GetDetails(id);
         }
 
-        public List<CustomerDiscountSearchModel> Search(CustomerDiscountSearchModel searchModel)
+        public List<CustomerDiscountViewModel> Search(CustomerDiscounSearchModel searchModel)
         {
-            throw new NotImplementedException();
+            return _customerDiscountRepository.Search(searchModel);
         }
     }
 }

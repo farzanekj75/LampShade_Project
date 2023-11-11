@@ -99,6 +99,9 @@
             "projectReferences": {
               "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj": {
                 "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
