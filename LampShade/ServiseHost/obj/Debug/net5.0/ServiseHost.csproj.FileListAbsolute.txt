@@ -151,6 +151,9 @@ C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.TagHelpers.input.cache
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.TagHelpers.output.cache
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorCoreGenerate.cache
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Create.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Edit.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Index.cshtml.g.cs
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Index.cshtml.g.cs
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.g.cs
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_Menu.cshtml.g.cs
@@ -187,3 +190,6 @@ C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.pdb
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.genruntimeconfig.cache
 C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ref\ServiseHost.dll
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Create.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Edit.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Index.cshtml.g.cs
