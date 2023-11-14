@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6tmD+FTiMmceU7k5pMpsj9xxTEvHad2PYcDoGVxBvKb9UxRKI4dBSGmD5EuC0x092j5C4OmdGjJYqp3HQytGyw==",
+  "dgSpecHash": "OtLUn5IX9wtnMJ1bPd3p2UYajYYEdqQI5rEuYC6ckrFEmH5v+gyE2etCU1M2Jr+MKh832gRL2zugVQXt3XySIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ServiseHost\\ServiseHost.csproj",
+  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ServiseHost\\ServiseHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

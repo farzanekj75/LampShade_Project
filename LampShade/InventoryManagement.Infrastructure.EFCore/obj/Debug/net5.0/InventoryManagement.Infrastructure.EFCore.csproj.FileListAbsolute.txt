@@ -1,0 +1,12 @@
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.deps.json
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.AssemblyInfo.cs
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\InventoryManagement.Infrastructure.EFCore.dll
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+C:\Users\kalami-f\source\repos\LampShade_Project\LampShade\InventoryManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\InventoryManagement.Infrastructure.EFCore.dll

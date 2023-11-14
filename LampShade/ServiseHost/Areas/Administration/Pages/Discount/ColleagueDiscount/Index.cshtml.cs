@@ -17,8 +17,8 @@ namespace ServiseHost.Areas.Administration.Pages.Discount.ColleagueDiscount
     {
         [TempData]
         public string Message { get; set; }
-        public ColleagueDiscountSearchModel SearchModel;
-        public List<ColleagueDiscountViewModel> ColleagueDiscounts;
+        public inventorySearchModel SearchModel;
+        public List<inventoryViewModel> ColleagueDiscounts;
         public SelectList Products;
 
         private readonly IProductApplication _productAppilcation;
@@ -31,7 +31,7 @@ namespace ServiseHost.Areas.Administration.Pages.Discount.ColleagueDiscount
             _colleagueDiscountApplication = colleagueDiscountApplication;
         }
 
-        public void OnGet(ColleagueDiscountSearchModel searchModel)
+        public void OnGet(inventorySearchModel searchModel)
         {
             Products = new SelectList(_productAppilcation.GetProducts(),"Id","Name");
             ColleagueDiscounts = _colleagueDiscountApplication.Search(searchModel);

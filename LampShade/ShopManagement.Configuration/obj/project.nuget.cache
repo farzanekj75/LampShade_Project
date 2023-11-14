@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+KNQCUwb9BVlwEiAY1e/C74Lttx+G2wW7T4ZDeXVred5sMSh1KJGcbN++BfQzBvO2utRvI1h2hN/wlsF4ELvQ==",
+  "dgSpecHash": "Err/8qW04tdMC6chQYXngoenrbdYbeEP8abIsDJQvkETIfA8o3ZIqvNCPl/8pWbtLaLkQXpoSt0gWNx1pETowQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
+  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

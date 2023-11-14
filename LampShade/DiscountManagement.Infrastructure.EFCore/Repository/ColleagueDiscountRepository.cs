@@ -33,10 +33,10 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
             }).FirstOrDefault(x => x.Id == id);
         }
 
-        public List<ColleagueDiscountViewModel> Search(ColleagueDiscountSearchModel searchModel)
+        public List<inventoryViewModel> Search(inventorySearchModel searchModel)
         {
             var products = _shopContext.Products.Select(x => new { x.Id, x.Name }).ToList();
-            var query = _context.ColleagueDiscounts.Select(x => new ColleagueDiscountViewModel
+            var query = _context.ColleagueDiscounts.Select(x => new inventoryViewModel
             {
                 Id = x.Id,
                 CreationDate = x.CreationDate.ToFarsi(),

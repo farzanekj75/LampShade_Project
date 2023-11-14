@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3yailXRMJRdrRPoGokVRJ9Jif2NKaD2wYmbqZIdpubcpRIBWN+EBl2BGPLNgmJ/DiB9Qb/ZJ49v6F3rt5DjR1Q==",
+  "dgSpecHash": "4IJJrRWGeSUPaFbKePOfTnLXCitZ/BZrIdpGy8Vod4EtcHZPdMNlHQOfI3gStPXTF4e6CcsspJ+JPHPmZc15Cg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

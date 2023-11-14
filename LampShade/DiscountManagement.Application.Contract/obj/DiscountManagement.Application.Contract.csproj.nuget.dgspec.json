@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {}
+    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj": {
+    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj",
+        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj",
         "projectName": "0_Framework",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj",
+        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\obj\\",
+        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
+    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
+        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
         "projectName": "DiscountManagement.Application.Contract",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
+        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\DiscountManagement.Application.Contract\\obj\\",
+        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,11 +97,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj"
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -135,14 +135,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "projectName": "ShopManagement.Application.Contracts",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Application.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,8 +163,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj"
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj"
               }
             }
           }

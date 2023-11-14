@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "velGiluJ8EMBl0ixrRGSVdT0AgGe6O3zmc7GtKKlEa6loXY9TsnFuG/jl4M3y5FhAARhQY+CAwDGKP2Un+OhsQ==",
+  "dgSpecHash": "VPuREgOiAu3orcbTFwxsY+/d1mEsYgmMupRgESZBRdPpwGpB3S7phReMz+Zd0YxiYfHYLouQG3EZJz7O+SP5YA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\0_Framework\\0_Framework.csproj",
+  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",

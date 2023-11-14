@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x5Wbsq3wuZIzUmix4JlRZVOQJT6DBPSq8DQuss0Drt+6JUTu98qXQLmQnEsXebmTNpu2tWTjtsb/9GuOd1Ovlg==",
+  "dgSpecHash": "H5o3U8g5zoArrDkq1/Lhmsdr40VWYYxoFzhKu822wkfScXzDA3ZzyNpQduI+Y+S+ziYYa8bLrZtZzgF1yo6CxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
+  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

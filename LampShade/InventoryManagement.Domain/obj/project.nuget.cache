@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vmQ6FglNqn67v7dx7lurP0cGmy6fUz9q7GprcJDJPXqbSj5ITsDUTWScoLJiOOx4ZNW+GOQ42SeIkufUDmWtxA==",
+  "dgSpecHash": "5izWCQ80x14vATuKqxmaeOE+GuAYqrL3OJqCInnwDWgeTobGu2FD6EHqQJ7Ue0jCEKabmdG+M/ZWUqytp/B8Tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",

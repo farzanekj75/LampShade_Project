@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nHZ0zLoao+R2nGz0CrsVv/IVNTNh92P7g6OCj5WlbTHhKrIvV4JmHe5WQKjKV+78SS1lc1SjhMN0D5MCKURt8A==",
+  "dgSpecHash": "jkfGUtWHUssfeKq9cMUwEmGrPQhqQeZAz5DK+TZmlKmFaUcAdBOtXW+Vl3hmMI2YEoJT/Az7nXMgsfhX7JVU0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4KwlSECjgvmZXRsypE/knkOULdYJqyYATul3GgXrpB+0PWX1xL+C3TG3TaQEMqDUttVtPDdXs50CKA4JwKRlKg==",
+  "dgSpecHash": "m0hvfzvUAHVEYdAnI4OhTiQceV8s4hxJOWbOOiCVVtdiPxm8uKOczXh9RNonfkbg6R8jQ/Yo2MLKRG99s85fEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project\\LampShade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
+  "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",

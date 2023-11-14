@@ -58,19 +58,21 @@ namespace ServiseHost.Areas.Administration.Pages.Shop.ProductPictures
             return new JsonResult(result);
         }
 
-        public IActionResult OnGetNotInStock(long id)
+        public IActionResult OnGetRemove(long id)
         {
-            var result = _productAppilcation.NotInStock(id);
+            var result = _productPictureAppilcation.Remove(id);
             if (result.IsSuccedded)
                 return RedirectToPage("./Index");
+
             Message = result.Message;
             return RedirectToPage("./Index");
         }
-        public IActionResult OnGetIsInStock(long id)
+        public IActionResult OnGetRestore(long id)
         {
-           var result = _productAppilcation.IsStock(id);
+           var result = _productPictureAppilcation.Restore(id);
             if (result.IsSuccedded)
                 return RedirectToPage("./Index");
+
             Message = result.Message;
             return RedirectToPage("./Index");
         }
