@@ -23,3 +23,9 @@ C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Co
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\refint\ShopManagement.Configuration.dll
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.dll
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.dll
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.pdb

@@ -24,3 +24,9 @@ C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\obj\Debug\net5.0\refint\01_LampshadeQuery.dll
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.dll
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.dll
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.pdb
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.pdb
