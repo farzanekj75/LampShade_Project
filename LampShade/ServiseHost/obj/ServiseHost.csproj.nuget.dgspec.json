@@ -32,6 +32,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+              },
               "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj": {
                 "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj"
               },

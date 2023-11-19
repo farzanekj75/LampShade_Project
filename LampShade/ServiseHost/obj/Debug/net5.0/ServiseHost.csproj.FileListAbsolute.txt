@@ -210,3 +210,4 @@ C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\D
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Reduce.cshtml.g.cs
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\ProductCategoryWithProduct\Default.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\LatestArrival\LatestArrival.cshtml.g.cs
