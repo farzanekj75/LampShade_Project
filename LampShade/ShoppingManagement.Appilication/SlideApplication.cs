@@ -3,26 +3,26 @@ using ShopManagement.Application.Contracts.Slide;
 using ShopManagement.Domain.SlideAgg;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 namespace ShopManagement.Appilication
 {
     public class SlideApplication : ISlideApplication
     {
+        private readonly IFileUploader _fileUploader;
         private readonly ISlideRepository _slideRepository;
 
-        public SlideApplication(ISlideRepository slideRepository)
+        public SlideApplication(ISlideRepository slideRepository, IFileUploader fileUploader)
         {
             _slideRepository = slideRepository;
+            _fileUploader = fileUploader;
         }
 
         public OperationResult Create(CreateSlide command)
         {
             var operation = new OperationResult();
-            var slide = new Slide(command.Picture, command.PictureAlt, command.PictureTitle,
+            var pictureName = _fileUploader.Upload(command.Picture, "slides");
+
+            var slide = new Slide(pictureName, command.PictureAlt, command.PictureTitle,
                 command.Heading, command.Title, command.Text, command.Link ,command.BtnText);
 
             _slideRepository.Create(slide);
@@ -37,7 +37,9 @@ namespace ShopManagement.Appilication
             if (slide == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
-            slide.Edit(command.Picture, command.PictureAlt, command.PictureTitle,
+            var pictureName = _fileUploader.Upload(command.Picture, "slides");
+
+            slide.Edit(pictureName, command.PictureAlt, command.PictureTitle,
                 command.Heading, command.Title, command.Text, command.Link, command.BtnText);
             _slideRepository.SaveChanges();
             return operation.Succedded();

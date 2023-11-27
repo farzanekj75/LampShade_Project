@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {}
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
         "projectName": "01_LampshadeQuery",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\01_LampshadeQuery\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\01_LampshadeQuery\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj",
         "projectName": "0_Framework",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,6 +113,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -138,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
         "projectName": "DiscountManagement.Application.Contract",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Application.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,11 +174,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -204,14 +212,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
         "projectName": "DiscountManagement.Domain",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Domain\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -232,11 +240,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
               }
             }
           }
@@ -270,14 +278,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
         "projectName": "DiscountManagement.Infrastructure.EFCore",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Infrastructure.EFCore\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -298,11 +306,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -352,14 +360,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
         "projectName": "InventoryManagement.Application.Contract",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Application.Contract\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Application.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -380,11 +388,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -418,14 +426,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
         "projectName": "InventoryManagement.Domain",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Domain\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -446,11 +454,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj"
               }
             }
           }
@@ -484,14 +492,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj",
         "projectName": "InventoryManagement.Infrasructure.EFCore",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Infrasructure.EFCore\\InventoryManagement.Infrasructure.EFCore.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Infrasructure.EFCore\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Infrasructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -512,11 +520,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -566,14 +574,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "projectName": "ShopManagement.Application.Contracts",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -594,8 +602,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj"
               }
             }
           }
@@ -609,6 +617,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -629,14 +643,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
         "projectName": "ShopManagement.Configuration",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Configuration\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -657,17 +671,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShoppingManagement.Appilication\\ShopManagement.Appilication.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShoppingManagement.Appilication\\ShopManagement.Appilication.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShoppingManagement.Appilication\\ShopManagement.Appilication.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShoppingManagement.Appilication\\ShopManagement.Appilication.csproj"
               }
             }
           }
@@ -707,14 +721,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
         "projectName": "ShopManagement.Domain",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Domain\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -735,11 +749,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\0_Framework\\0_Framework.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\0_Framework\\0_Framework.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -773,14 +787,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
         "projectName": "ShopManagement.Infrastructure.EFCore",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Infrastructure.EFCore\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -801,8 +815,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
               }
             }
           }
@@ -852,14 +866,14 @@
         }
       }
     },
-    "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShoppingManagement.Appilication\\ShopManagement.Appilication.csproj": {
+    "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShoppingManagement.Appilication\\ShopManagement.Appilication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShoppingManagement.Appilication\\ShopManagement.Appilication.csproj",
+        "projectUniqueName": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShoppingManagement.Appilication\\ShopManagement.Appilication.csproj",
         "projectName": "ShopManagement.Appilication",
-        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShoppingManagement.Appilication\\ShopManagement.Appilication.csproj",
+        "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShoppingManagement.Appilication\\ShopManagement.Appilication.csproj",
         "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShoppingManagement.Appilication\\obj\\",
+        "outputPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShoppingManagement.Appilication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -880,11 +894,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               },
-              "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade_Project - 2\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+              "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
               }
             }
           }

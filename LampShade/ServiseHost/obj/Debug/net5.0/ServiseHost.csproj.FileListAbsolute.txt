@@ -1,151 +1,3 @@
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\appsettings.json
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.exe
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.deps.json
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.runtimeconfig.json
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.runtimeconfig.dev.json
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.Views.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.Views.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Humanizer.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\System.Composition.AttributedModel.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\System.Composition.Convention.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\System.Composition.Hosting.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\System.Composition.Runtime.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\System.Composition.TypedParts.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\01_LampshadeQuery.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\0_Framework.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Application.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Configuration.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Domain.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Configuration.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Domain.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Appilication.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Configuration.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Domain.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Configuration.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Configuration.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Configuration.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\01_LampshadeQuery.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\0_Framework.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Application.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Domain.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Domain.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Appilication.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Domain.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.csproj.AssemblyReference.cache
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.AssemblyInfoInputs.cache
@@ -154,60 +6,226 @@ C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\D
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorAssemblyInfo.cache
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorAssemblyInfo.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\scopedcss\bundle\ServiseHost.styles.css
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\staticwebassets\ServiseHost.StaticWebAssets.Manifest.cache
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.TagHelpers.input.cache
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.TagHelpers.output.cache
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorCoreGenerate.cache
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Create.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Edit.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Index.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Create.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Edit.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Index.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Index.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_Menu.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Create.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Edit.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Index.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Create.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Edit.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Index.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Create.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Edit.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Index.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Create.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Edit.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Index.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewImports.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewStart.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\ProductCategory\Default.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\Slide\Default.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorTargetAssemblyInfo.cache
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorTargetAssemblyInfo.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.Views.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.csproj.CopyComplete
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\refint\ServiseHost.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.genruntimeconfig.cache
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\ref\ServiseHost.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Application.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Application.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Create.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Edit.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Index.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Increase.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Reduce.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\ProductCategoryWithProduct\Default.cshtml.g.cs
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\LatestArrival\LatestArrival.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\appsettings.Development.json
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\appsettings.json
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.exe
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.deps.json
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.runtimeconfig.json
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.runtimeconfig.dev.json
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.Views.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ServiseHost.Views.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Humanizer.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\01_LampshadeQuery.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\0_Framework.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Application.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Configuration.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Domain.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Application.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Configuration.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Domain.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Appilication.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Configuration.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Domain.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Configuration.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Configuration.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Configuration.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\01_LampshadeQuery.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\0_Framework.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Application.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Application.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Appilication.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Domain.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.csproj.AssemblyReference.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.GeneratedMSBuildEditorConfig.editorconfig
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.AssemblyInfoInputs.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.AssemblyInfo.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.csproj.CoreCompileInputs.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.MvcApplicationPartsAssemblyInfo.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.MvcApplicationPartsAssemblyInfo.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorAssemblyInfo.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorAssemblyInfo.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\scopedcss\bundle\ServiseHost.styles.css
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\staticwebassets\ServiseHost.StaticWebAssets.Manifest.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.TagHelpers.input.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.TagHelpers.output.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorCoreGenerate.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Create.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Edit.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\ColleagueDiscount\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Create.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Edit.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discount\CustomerDiscount\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Create.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Edit.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Increase.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Reduce.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_Menu.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Create.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Edit.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Create.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Edit.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Create.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Edit.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Create.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Edit.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewImports.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewStart.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\ProductCategory.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Search.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\Footer\Default.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\LatestArrival\LatestArrival.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\Menu\Default.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\ProductCategoryWithProduct\Default.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\ProductCategory\Default.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\Slide\Default.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorTargetAssemblyInfo.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.RazorTargetAssemblyInfo.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.Views.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.csproj.CopyComplete
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\refint\ServiseHost.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.genruntimeconfig.cache
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ref\ServiseHost.dll

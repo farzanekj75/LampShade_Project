@@ -1,37 +1,42 @@
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.deps.json
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\01_LampshadeQuery.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\0_Framework.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Appilication.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Domain.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\01_LampshadeQuery.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Appilication.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\0_Framework.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Domain.pdb
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.AssemblyReference.cache
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfoInputs.cache
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfo.cs
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CoreCompileInputs.cache
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CopyComplete
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\refint\ShopManagement.Configuration.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Domain.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Domain.pdb
-C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.deps.json
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\01_LampshadeQuery.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\0_Framework.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Domain.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Appilication.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Domain.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\01_LampshadeQuery.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Appilication.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\0_Framework.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Domain.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.AssemblyReference.cache
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfoInputs.cache
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfo.cs
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CoreCompileInputs.cache
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CopyComplete
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\refint\ShopManagement.Configuration.dll
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
+E:\personalProject\LampShade_Project -1\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll

@@ -32,3 +32,20 @@ C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\DiscountManagemen
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\refint\DiscountManagement.Application.Contract.dll
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.pdb
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\ref\DiscountManagement.Application.Contract.dll
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\bin\Debug\net5.0\DiscountManagement.Application.Contract.deps.json
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\bin\Debug\net5.0\0_Framework.dll
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\bin\Debug\net5.0\0_Framework.pdb
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.csproj.AssemblyReference.cache
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.AssemblyInfoInputs.cache
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.AssemblyInfo.cs
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.csproj.CoreCompileInputs.cache
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.csproj.CopyComplete
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.dll
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\refint\DiscountManagement.Application.Contract.dll
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+E:\personalProject\LampShade_Project -1\LampShade\DiscountManagement.Application.Contract\obj\Debug\net5.0\ref\DiscountManagement.Application.Contract.dll

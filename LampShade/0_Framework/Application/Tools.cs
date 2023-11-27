@@ -32,7 +32,8 @@ namespace _0_Framework.Application
             var pc = new PersianCalendar();
             return $"{pc.GetYear(date)}/{pc.GetMonth(date):00}/{pc.GetDayOfMonth(date):00}";
         }
-        
+   
+
         public static string ToDiscountFormat(this DateTime date)
         {
             if (date == new DateTime()) return "";

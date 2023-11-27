@@ -13,6 +13,11 @@ namespace DiscountManagement.Application
     {
         private readonly ICustomerDiscountRepository _customerDiscountRepository;
 
+        public CustomerDiscountApplication(ICustomerDiscountRepository customerDiscountRepository)
+        {
+            _customerDiscountRepository = customerDiscountRepository;
+        }
+
         public OperationResult Define(DefineCustomerDiscount command)
         {
             var operation = new OperationResult();
