@@ -229,3 +229,5 @@ E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\r
 E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.pdb
 E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.genruntimeconfig.cache
 E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\ref\ServiseHost.dll
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
+E:\personalProject\LampShade_Project -1\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Comments\Index.cshtml.g.cs
