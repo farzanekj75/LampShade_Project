@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IrpzHcLlEfPYnHB25q+6WZmxwff6hDK6Ti6pmLB5xqKDXoRTxfgAYqzyG1GgkwkhRsdFUV+V4Zj4/bxyiSHXJg==",
+  "dgSpecHash": "Ppqyf5ljUHD7Q+8duJ+2ToWaH8cEaSHLKXmpXrZ9cqmHPEGW/a6Bqu35hpJ01rXAxOhCGpYjSAzTcLDTs/i6LQ==",
   "success": true,
-  "projectFilePath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\InventoryManagement.Configuration\\InventoryManagement.Configuration.csproj",
+  "projectFilePath": "E:\\personalProject\\LampShade_Project\\LampShade\\InventoryManagement.Configuration\\InventoryManagement.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

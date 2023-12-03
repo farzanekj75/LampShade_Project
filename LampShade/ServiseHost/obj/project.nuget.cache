@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xic6pffgqJ/2WK04QmAORopYq4zJ/v9HdbYfFmsykoawHiRUBU2gDFcJpk+ZoYuum4ij4UNh3tz5bs9/IIjYFA==",
+  "dgSpecHash": "0+S4DlZ2jJoE7UqA4/a2lgGjT00/yDv+x36G2TTI/ayFfnzIDbG0X0pm3BzFW/hmd0ES9wd93HBKq0bS7rWRhA==",
   "success": true,
-  "projectFilePath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\ServiseHost\\ServiseHost.csproj",
+  "projectFilePath": "E:\\personalProject\\LampShade_Project\\LampShade\\ServiseHost\\ServiseHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

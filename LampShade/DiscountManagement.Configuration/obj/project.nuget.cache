@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FjsXfaX4xGW1JRqzOPznOL2KIEuEkllJpWaEd0jvF5SZ5xLfsfDz63wKlNA6sbhdT0qOK0uk3HsGLZeJr/1jng==",
+  "dgSpecHash": "l9k5e0VwRhnPfCzElt7+0ZuIxSlN5OBRMyO/CvVIqgtwzbmPUCiWr7aZ5v+HcClEJ6avQwl6UuBVrUbs3CQSkw==",
   "success": true,
-  "projectFilePath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
+  "projectFilePath": "E:\\personalProject\\LampShade_Project\\LampShade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

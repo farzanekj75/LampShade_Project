@@ -8,36 +8,36 @@ C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfoInputs.cache
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfo.cs
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CoreCompileInputs.cache
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.deps.json
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.AssemblyReference.cache
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.GeneratedMSBuildEditorConfig.editorconfig
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfoInputs.cache
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfo.cs
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CoreCompileInputs.cache
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CopyComplete
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\obj\Debug\net5.0\refint\01_LampshadeQuery.dll
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
-E:\personalProject\LampShade_Project -1\LampShade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.deps.json
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.AssemblyReference.cache
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfoInputs.cache
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfo.cs
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CoreCompileInputs.cache
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CopyComplete
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\refint\01_LampshadeQuery.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll

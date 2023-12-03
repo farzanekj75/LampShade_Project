@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gJDIPnA9sbROanW8FZbTKn50hRo+Rf8HDEQ0LNfZwkJ6g6vG+AL+SITw/qGnxPHILFqigYhUhKSfPfu+RiirGA==",
+  "dgSpecHash": "+0ODSRVIROMaH+COM4RAlr/0vKp3r5FEXqUfQW+Ld2vQX4dp9Z6D4bk9h2qCi+xCsZjTtUOALt4882lfET3ggQ==",
   "success": true,
-  "projectFilePath": "E:\\personalProject\\LampShade_Project -1\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
+  "projectFilePath": "E:\\personalProject\\LampShade_Project\\LampShade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
