@@ -2,6 +2,7 @@
 using _0_Framework.Infrastructure;
 using BlogManagement.Application.Contracts.Article;
 using BlogManagement.Domain.ArticleAgg;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,7 +30,6 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
             Description = x.Description,
             Keywords = x.Keywords,
             MetaDescription = x.MetaDescription,
-            Picture = x.Picture,
             PictureAlt = x.PictureAlt,
             PictureTitle = x.PictureTitle,
             PublishDate = x.PublishDate.ToFarsi(),
@@ -38,6 +38,11 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
             Title = x.Title,
             
           }).FirstOrDefault(x => x.Id == id);
+        }
+
+        public Article GetWithCategory(long id)
+        {
+            return _context.Articles.Include(x => x.Category).FirstOrDefault(x => x.Id == id);
         }
 
         public List<ArticleViewModel> Search(ArticleSearchModel searchModel)
