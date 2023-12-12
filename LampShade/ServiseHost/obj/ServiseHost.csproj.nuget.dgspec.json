@@ -32,6 +32,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "E:\\personalProject\\LampShade_Project\\LampShade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project\\LampShade\\BlogManagement.Infrastructure.EFCore\\BlogManagement.Infrastructure.EFCore.csproj"
+              },
               "E:\\personalProject\\LampShade_Project\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
                 "projectPath": "E:\\personalProject\\LampShade_Project\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
               },
@@ -375,6 +378,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "E:\\personalProject\\LampShade_Project\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+                "projectPath": "E:\\personalProject\\LampShade_Project\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
+              },
               "E:\\personalProject\\LampShade_Project\\LampShade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj": {
                 "projectPath": "E:\\personalProject\\LampShade_Project\\LampShade\\BlogManagement.Application.Contracts\\BlogManagement.Application.Contracts.csproj"
               },

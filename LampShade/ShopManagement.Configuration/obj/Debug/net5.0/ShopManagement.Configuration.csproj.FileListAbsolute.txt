@@ -40,3 +40,9 @@ E:\personalProject\LampShade_Project\LampShade\ShopManagement.Configuration\obj\
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\refint\ShopManagement.Configuration.dll
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Domain.dll
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Domain.pdb
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb

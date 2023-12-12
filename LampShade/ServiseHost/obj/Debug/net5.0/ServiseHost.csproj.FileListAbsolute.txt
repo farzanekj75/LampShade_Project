@@ -244,3 +244,9 @@ E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\Blog
 E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Create.cshtml.g.cs
 E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Edit.cshtml.g.cs
 E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Create.cshtml.g.cs
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Edit.cshtml.g.cs
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Index.cshtml.g.cs
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Shared\Component\LatestArticles\LatestArticle.cshtml.g.cs
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\Article.cshtml.g.cs
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Pages\ArticleCategory.cshtml.g.cs
