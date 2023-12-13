@@ -1,5 +1,6 @@
 ﻿using _0_Framework.Application;
 using _01_LampshadeQuery.Contract.Product;
+using CommentManagement.Infrastructure.EFCore;
 using DiscountManagement.Infrastructure.EFCore;
 using InventoryManagement.Infrasructure.EFCore;
 using Microsoft.EntityFrameworkCore;
@@ -18,12 +19,15 @@ namespace _01_LampshadeQuery.Query
         private readonly ShopContext _context;
         private readonly InventoryContext _inventoryContext;
         private readonly DiscountContext _discountContext;
+        private readonly CommentContext _commentContetx;
 
-        public ProductQuery(ShopContext context, InventoryContext inventoryContext, DiscountContext discountContext)
+        public ProductQuery(ShopContext context, InventoryContext inventoryContext,
+            DiscountContext discountContext, CommentContext commentContext)
         {
             _context = context;
             _inventoryContext = inventoryContext;
             _discountContext = discountContext;
+            _commentContetx = commentContext;
         }
 
         public ProductQueryModel GetDetails(string slug)
