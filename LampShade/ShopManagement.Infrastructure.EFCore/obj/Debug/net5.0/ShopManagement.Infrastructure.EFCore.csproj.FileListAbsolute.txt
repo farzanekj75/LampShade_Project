@@ -8,6 +8,11 @@ C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.In
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfo.cs
 C:\Users\kalami-f\source\repos\LampShade_Project - 2\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfo.cs
+E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.deps.json
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.json
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.dev.json
@@ -19,11 +24,6 @@ E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFC
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.pdb
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
-E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
-E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
-E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
-E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfo.cs
-E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CopyComplete
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
 E:\personalProject\LampShade_Project\LampShade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\ShopManagement.Infrastructure.EFCore.dll

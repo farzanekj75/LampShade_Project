@@ -1,11 +1,8 @@
 ﻿using _0_Framework.Application;
 using _01_LampshadeQuery.Contract.Product;
-using _01_LampshadeQuery.Contract.ProductCategory;
 using DiscountManagement.Infrastructure.EFCore;
 using InventoryManagement.Infrasructure.EFCore;
 using Microsoft.EntityFrameworkCore;
-using ShopManagement.Domain.CommentAgg;
-using ShopManagement.Domain.ProductAgg;
 using ShopManagement.Domain.ProductPictureAgg;
 using ShopManagement.Infrastructure.EFCore;
 using System;
@@ -38,7 +35,6 @@ namespace _01_LampshadeQuery.Query
                 .Select(x => new { x.DiscountRate, x.ProductId }).ToList();
             var product = _context.Products
                 .Include(x => x.Category)
-                .Include(x => x.Comments)
                 .Select(product => new ProductQueryModel
                 {
                     Id = product.Id,
@@ -54,7 +50,6 @@ namespace _01_LampshadeQuery.Query
                     Keywords = product.Keywords,
                     MetaDescription = product.MetaDescription,
                     ShortDescription = product.ShortDescription,
-                    Comments = MapComments(product.Comments),
                     Pictures = MapProductPictures(product.ProductPictures)
                 }).AsNoTracking().FirstOrDefault(x => x.Slug == slug);
 
@@ -82,18 +77,18 @@ namespace _01_LampshadeQuery.Query
             return product;
         }
 
-        private static List<CommentQueryModel> MapComments(List<Comment> comments)
-        {
-           return comments
-                .Where(x => !x.IsCaneceled)
-                .Where(x => !x.IsConfirmed)
-                .Select(x => new CommentQueryModel
-                {
-                    Id = x.Id,
-                    Message = x.Message,
-                    Name = x.Name,
-                }).OrderByDescending(x => x.Id).ToList();
-        }
+        //private static List<CommentQueryModel> MapComments(List<Comment> comments)
+        //{
+        //   return comments
+        //        .Where(x => !x.IsCaneceled)
+        //        .Where(x => !x.IsConfirmed)
+        //        .Select(x => new CommentQueryModel
+        //        {
+        //            Id = x.Id,
+        //            Message = x.Message,
+        //            Name = x.Name,
+        //        }).OrderByDescending(x => x.Id).ToList();
+        //}
 
         private static List<ProductPictureQueryModel> MapProductPictures(List<ProductPicture> pictures)
         {
