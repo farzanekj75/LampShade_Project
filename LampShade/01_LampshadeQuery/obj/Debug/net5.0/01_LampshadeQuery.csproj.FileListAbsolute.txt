@@ -47,3 +47,9 @@ E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\refint\01_LampshadeQuery.dll
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.pdb

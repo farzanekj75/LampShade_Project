@@ -9,8 +9,7 @@ using ShopManagement.Infrastructure.EFCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace _01_LampshadeQuery.Query
 {
@@ -30,7 +29,7 @@ namespace _01_LampshadeQuery.Query
             _commentContetx = commentContext;
         }
 
-        public ProductQueryModel GetDetails(string slug)
+        public ProductQueryModel GetProductDetails(string slug)
         {
             var inventory = _inventoryContext.Inventory.Select(x =>
                 new { x.ProductId, x.UnitPrice, x.InStock }).ToList();
@@ -78,21 +77,22 @@ namespace _01_LampshadeQuery.Query
                 }
             }
 
+
+            product.Comments = _commentContetx.Comments
+                .Where(x => !x.IsCanceled)
+                .Where(x => !x.IsConfirmed)
+                .Where(x => x.Type == CommentType.Product)
+                .Where(x => x.OwnerRecordId == product.Id)
+                .Select(x => new CommentQueryModel
+                {
+                    Id = x.Id,
+                    Message = x.Message,
+                    Name = x.Name,
+                }).OrderByDescending(x => x.Id).ToList();
+             
             return product;
         }
 
-        //private static List<CommentQueryModel> MapComments(List<Comment> comments)
-        //{
-        //   return comments
-        //        .Where(x => !x.IsCaneceled)
-        //        .Where(x => !x.IsConfirmed)
-        //        .Select(x => new CommentQueryModel
-        //        {
-        //            Id = x.Id,
-        //            Message = x.Message,
-        //            Name = x.Name,
-        //        }).OrderByDescending(x => x.Id).ToList();
-        //}
 
         private static List<ProductPictureQueryModel> MapProductPictures(List<ProductPicture> pictures)
         {

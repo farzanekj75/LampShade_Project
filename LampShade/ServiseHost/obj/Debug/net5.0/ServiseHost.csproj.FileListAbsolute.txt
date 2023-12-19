@@ -259,3 +259,4 @@ E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\refi
 E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.pdb
 E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.genruntimeconfig.cache
 E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ref\ServiseHost.dll
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.MvcApplicationPartsAssemblyInfo.cs
