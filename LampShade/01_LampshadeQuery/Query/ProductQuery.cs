@@ -1,4 +1,5 @@
 ﻿using _0_Framework.Application;
+using _01_LampshadeQuery.Contract.Comment;
 using _01_LampshadeQuery.Contract.Product;
 using CommentManagement.Infrastructure.EFCore;
 using DiscountManagement.Infrastructure.EFCore;
@@ -18,7 +19,7 @@ namespace _01_LampshadeQuery.Query
         private readonly ShopContext _context;
         private readonly InventoryContext _inventoryContext;
         private readonly DiscountContext _discountContext;
-        private readonly CommentContext _commentContetx;
+        private readonly CommentContext _commentContext;
 
         public ProductQuery(ShopContext context, InventoryContext inventoryContext,
             DiscountContext discountContext, CommentContext commentContext)
@@ -26,7 +27,7 @@ namespace _01_LampshadeQuery.Query
             _context = context;
             _inventoryContext = inventoryContext;
             _discountContext = discountContext;
-            _commentContetx = commentContext;
+            _commentContext = commentContext;
         }
 
         public ProductQueryModel GetProductDetails(string slug)
@@ -78,7 +79,7 @@ namespace _01_LampshadeQuery.Query
             }
 
 
-            product.Comments = _commentContetx.Comments
+            product.Comments = _commentContext.Comments
                 .Where(x => !x.IsCanceled)
                 .Where(x => !x.IsConfirmed)
                 .Where(x => x.Type == CommentType.Product)
@@ -88,6 +89,7 @@ namespace _01_LampshadeQuery.Query
                     Id = x.Id,
                     Message = x.Message,
                     Name = x.Name,
+                    CreationDate = x.CreationDate.ToFarsi()
                 }).OrderByDescending(x => x.Id).ToList();
              
             return product;
