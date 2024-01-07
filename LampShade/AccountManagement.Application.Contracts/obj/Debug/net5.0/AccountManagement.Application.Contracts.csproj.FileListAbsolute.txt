@@ -1,0 +1,15 @@
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\bin\Debug\net5.0\AccountManagement.Application.Contracts.deps.json
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.csproj.AssemblyReference.cache
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.AssemblyInfoInputs.cache
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.AssemblyInfo.cs
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.csproj.CopyComplete
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\obj\Debug\net5.0\refint\AccountManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+E:\personalProject\LampShade_Project\LampShade\AccountManagement.Application.Contracts\obj\Debug\net5.0\ref\AccountManagement.Application.Contracts.dll

@@ -20,6 +20,9 @@ E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Domain.dll
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.dll
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.dll
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.dll
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
@@ -30,12 +33,15 @@ E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.dll
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Infrasructure.EFCore.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Domain.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
@@ -47,9 +53,3 @@ E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\refint\01_LampshadeQuery.dll
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
 E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll
-E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
-E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.dll
-E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.dll
-E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Infrastructure.EFCore.pdb
-E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
-E:\personalProject\LampShade_Project\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.pdb

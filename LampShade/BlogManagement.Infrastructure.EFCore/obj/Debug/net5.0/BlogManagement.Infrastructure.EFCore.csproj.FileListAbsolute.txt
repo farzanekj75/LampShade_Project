@@ -1,3 +1,8 @@
+E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
+E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.AssemblyInfo.cs
+E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.deps.json
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.runtimeconfig.json
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.runtimeconfig.dev.json
@@ -9,11 +14,6 @@ E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFC
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\BlogManagement.Domain.pdb
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.pdb
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
-E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
-E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
-E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
-E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.AssemblyInfo.cs
-E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.csproj.CopyComplete
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\BlogManagement.Infrastructure.EFCore.dll

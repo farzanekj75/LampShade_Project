@@ -1,3 +1,8 @@
+E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.csproj.AssemblyReference.cache
+E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.AssemblyInfoInputs.cache
+E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.AssemblyInfo.cs
+E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.csproj.CoreCompileInputs.cache
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\bin\Debug\net5.0\BlogManagement.Domain.deps.json
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\bin\Debug\net5.0\BlogManagement.Domain.dll
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\bin\Debug\net5.0\BlogManagement.Domain.pdb
@@ -5,11 +10,6 @@ E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\bin\Debug\n
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\bin\Debug\net5.0\0_Framework.pdb
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
-E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.csproj.AssemblyReference.cache
-E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
-E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.AssemblyInfoInputs.cache
-E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.AssemblyInfo.cs
-E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.csproj.CoreCompileInputs.cache
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.csproj.CopyComplete
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.dll
 E:\personalProject\LampShade_Project\LampShade\BlogManagement.Domain\obj\Debug\net5.0\refint\BlogManagement.Domain.dll
