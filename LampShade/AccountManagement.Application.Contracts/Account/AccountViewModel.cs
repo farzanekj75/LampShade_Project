@@ -9,6 +9,7 @@
         public long RoleId { get; set; }
         public string Role { get; set; }
         public string ProfilePhoto { get; set; }
+        public string CreationDate { get; set; }
     }
 
 }

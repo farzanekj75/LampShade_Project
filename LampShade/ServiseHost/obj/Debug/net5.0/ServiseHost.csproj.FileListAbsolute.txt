@@ -259,3 +259,17 @@ E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\refi
 E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.pdb
 E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.genruntimeconfig.cache
 E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ref\ServiseHost.dll
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\AccountManagement.Application.dll
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\AccountManagement.Configuration.dll
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\AccountManagement.Domain.dll
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\AccountManagement.Infrastructure.EFCore.dll
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\AccountManagement.Configuration.pdb
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\AccountManagement.Application.pdb
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\AccountManagement.Domain.pdb
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\bin\Debug\net5.0\AccountManagement.Infrastructure.EFCore.pdb
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\ServiseHost.MvcApplicationPartsAssemblyInfo.cs
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Create.cshtml.g.cs
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Edit.cshtml.g.cs
+E:\personalProject\LampShade_Project\LampShade\ServiseHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Index.cshtml.g.cs
