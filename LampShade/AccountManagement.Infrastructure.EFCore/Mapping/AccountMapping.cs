@@ -1,11 +1,7 @@
 ﻿using AccountManagement.Domain.AccountAgg;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace AccountManagement.Infrastructure.EFCore.Mapping
 {
@@ -22,6 +18,8 @@ namespace AccountManagement.Infrastructure.EFCore.Mapping
             builder.Property(x => x.Password).HasMaxLength(1000);
             builder.Property(x => x.ProfilePhoto).HasMaxLength(500);
             builder.Property(x => x.Mobile).HasMaxLength(20);
+
+            builder.HasOne(x => x.Role).WithMany(x => x.Accounts).HasForeignKey(x => x.RoleId);
         }
     }
 }

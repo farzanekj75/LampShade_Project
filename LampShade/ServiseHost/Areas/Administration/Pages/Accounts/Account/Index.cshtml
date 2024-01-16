@@ -54,7 +54,7 @@
     <div class="col-md-12">
         <div class="panel panel-default">
             <div class="panel-heading">
-                <h3 class="panel-title">لیست کاربران</h3>
+                <h3 class="panel-title">لیست کاربران (@Model.Accounts.Count)</h3>
             </div>
             <div class="panel-body">
                 <div class="row">
@@ -92,7 +92,7 @@
                                             </a>
                                         
                                             <a class="btn btn-primary waves-effect waves-light m-b-5"
-                                              href="#showmodal=@Url.Page("./Index", "ChangePassword", new { id = item.Id})">
+                                                href="#showmodal=@Url.Page("./Index", "ChangePassword", new { id = item.Id})">
                                                 <i class="fa fa-key"></i> تغییر رمز
                                             </a>
 
