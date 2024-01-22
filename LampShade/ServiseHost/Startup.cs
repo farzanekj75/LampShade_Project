@@ -1,11 +1,14 @@
 using _0_Framework.Application;
+using _0_Framework.Infrastructure;
 using AccountManagement.Configuration;
 using BlogManagement.Infrastructure.Configuration;
 using CommentManagement.Infrastructure.Configuration;
 using DiscountManagement.Configuration;
 using InventoryManagement.Configuration;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -32,6 +35,7 @@ namespace ServiseHost
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddHttpContextAccessor();
             var connectionString = Configuration.GetConnectionString("LampShadeDB");
             ShopManagementBoostrapper.Configure(services, connectionString);
             DiscountManagementBootstrapper.Configure(services,connectionString);
@@ -43,7 +47,48 @@ namespace ServiseHost
             services.AddSingleton( HtmlEncoder.Create(UnicodeRanges.BasicLatin, UnicodeRanges.Arabic));
             services.AddSingleton<IPasswordHasher, PasswordHasher>();
             services.AddTransient<IFileUploader, FileUploader>();
-            services.AddRazorPages();
+            services.AddTransient<IAuthHelper, AuthHelper>();
+            
+
+            services.Configure<CookiePolicyOptions>(options =>
+            {
+                options.CheckConsentNeeded = context => true;
+                options.MinimumSameSitePolicy = SameSiteMode.Lax;
+            });
+
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, o =>
+                {
+                    o.LoginPath = new PathString("/Account");
+                    o.LogoutPath = new PathString("/Account");
+                    o.AccessDeniedPath = new PathString("/AccessDenied");
+                });
+
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("AdminArea",
+                builder => builder.RequireRole(new List<string> { Roles.Administrator , Roles.ContentUploader }));
+
+                options.AddPolicy("Shop",
+                builder => builder.RequireRole(new List<string> { Roles.Administrator }));
+
+                options.AddPolicy("Discount",
+                builder => builder.RequireRole(new List<string> { Roles.Administrator }));
+
+                options.AddPolicy("Account",
+                builder => builder.RequireRole(new List<string> { Roles.Administrator }));
+            });
+
+            services.AddRazorPages()
+                .AddRazorPagesOptions(options =>
+                {
+                    options.Conventions.AuthorizeAreaFolder("Adiminstration", "/", "AdminArea");
+                    options.Conventions.AuthorizeAreaFolder("Adiminstration", "/Shop", "Shop");
+                    options.Conventions.AuthorizeAreaFolder("Adiminstration", "/Discount", "Discount");
+                    options.Conventions.AuthorizeAreaFolder("Adiminstration", "/Accounts", "Account");
+                });
+                
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -60,9 +105,10 @@ namespace ServiseHost
                 app.UseHsts();
             }
 
+            app.UseAuthentication();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            app.UseCookiePolicy();
             app.UseRouting();
 
             app.UseAuthorization();

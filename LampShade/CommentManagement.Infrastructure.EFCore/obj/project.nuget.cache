@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "+dZ9qAZqGnIIiISlbDWNrkknd4JosWC19gS7fftgolax5jyfel4FbOGTgphZ6GVgRZVBls9ZhjuTZ6JAsXSp5w==",
+  "dgSpecHash": "W5bUeaBwtdEDfi/by1d5wap4NrCv06Y455cociw/nJ3MHZb6YNy/MiBPDEq6xTqtzuvLuaPj4ABzQJhw2gsz5A==",
   "success": true,
   "projectFilePath": "E:\\personalProject\\LampShade_Project\\LampShade\\CommentManagement.Infrastructure.EFCore\\CommentManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kalami-f\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
+    "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.2.0\\microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",

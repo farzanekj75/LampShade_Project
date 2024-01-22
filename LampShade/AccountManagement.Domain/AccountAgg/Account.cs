@@ -21,6 +21,9 @@ namespace AccountManagement.Domain.AccountAgg
             Password = password;
             Mobile = mobile;
             RoleId = roleId;
+
+            if (roleId == 0)
+                RoleId = 2; //کاربر سیستم
             ProfilePhoto = profilePhoto;
         }
         public void Edit(string fullname, string username,
