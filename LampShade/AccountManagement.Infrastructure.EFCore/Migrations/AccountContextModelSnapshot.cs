@@ -94,9 +94,12 @@ namespace AccountManagement.Infrastructure.EFCore.Migrations
                 {
                     b.OwnsMany("AccountManagement.Domain.RoleAgg.Permission", "Permissions", b1 =>
                         {
-                            b1.Property<long>("Id")
+                            b1.Property<long>("RoleId")
+                                .HasColumnType("bigint");
+
+                            b1.Property<int>("Id1")
                                 .ValueGeneratedOnAdd()
-                                .HasColumnType("bigint")
+                                .HasColumnType("int")
                                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                             b1.Property<int>("Code")
@@ -105,12 +108,7 @@ namespace AccountManagement.Infrastructure.EFCore.Migrations
                             b1.Property<string>("Name")
                                 .HasColumnType("nvarchar(max)");
 
-                            b1.Property<long>("RoleId")
-                                .HasColumnType("bigint");
-
-                            b1.HasKey("Id");
-
-                            b1.HasIndex("RoleId");
+                            b1.HasKey("RoleId", "Id1");
 
                             b1.ToTable("RolePermission");
 
