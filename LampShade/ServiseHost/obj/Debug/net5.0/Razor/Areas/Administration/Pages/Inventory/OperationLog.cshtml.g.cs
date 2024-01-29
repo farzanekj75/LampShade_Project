@@ -20,7 +20,7 @@ using ServiseHost;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"14301b0db88f65c0d4afa9dffa1f706fe27a074d", @"/Areas/Administration/Pages/Inventory/OperationLog.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6880841cff341eca7a94f42a1159ff7d080a9cc0", @"/Areas/Administration/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e1912b02a6b3045888b431f68a0d39dc595d2c6f", @"/Areas/Administration/Pages/_ViewImports.cshtml")]
     #nullable restore
     public class Areas_Administration_Pages_Inventory_OperationLog : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<InventoryManagement.Application.Contract.Inventory.InventoryOperationViewModel>>
     #nullable disable

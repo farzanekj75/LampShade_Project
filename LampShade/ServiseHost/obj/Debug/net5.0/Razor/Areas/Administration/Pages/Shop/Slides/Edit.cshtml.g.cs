@@ -20,7 +20,7 @@ using ServiseHost;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e2c69be075a9c52da803ac3f5afe6c2f0d8877af", @"/Areas/Administration/Pages/Shop/Slides/Edit.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6880841cff341eca7a94f42a1159ff7d080a9cc0", @"/Areas/Administration/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e1912b02a6b3045888b431f68a0d39dc595d2c6f", @"/Areas/Administration/Pages/_ViewImports.cshtml")]
     #nullable restore
     public class Areas_Administration_Pages_Shop_Slides_Edit : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ShopManagement.Application.Contracts.Slide.EditSlide>
     #nullable disable

@@ -13,6 +13,7 @@ namespace _0_Framework.Application
         void SignIn(AuthViewModel account);
         string CurrentAccountRole();
         AuthViewModel CurrentAccountInfo();
+        List<int> GetPermissions();
         
     }
 }

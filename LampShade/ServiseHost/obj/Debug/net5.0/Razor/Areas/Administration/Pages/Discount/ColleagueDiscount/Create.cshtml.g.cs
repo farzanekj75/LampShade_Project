@@ -20,7 +20,7 @@ using ServiseHost;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b01730ef18f4e0d81b187fac8b0dc5ea1a056b17", @"/Areas/Administration/Pages/Discount/ColleagueDiscount/Create.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6880841cff341eca7a94f42a1159ff7d080a9cc0", @"/Areas/Administration/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e1912b02a6b3045888b431f68a0d39dc595d2c6f", @"/Areas/Administration/Pages/_ViewImports.cshtml")]
     #nullable restore
     public class Areas_Administration_Pages_Discount_ColleagueDiscount_Create : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<DiscountManagement.Application.Contract.ColleagueDiscount.DefineColleagueDiscount>
     #nullable disable
