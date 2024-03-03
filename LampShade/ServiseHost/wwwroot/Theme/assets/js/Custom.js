@@ -14,7 +14,7 @@
         const product = {
             id,
             name,
-            price,
+            unitPrice : price,
             picture,
             count
         }
@@ -47,7 +47,7 @@ function updateCart() {
                                      <a href="single-product.html">محصول : ${x.name}</a>
                                  </p>
                                  <p class="count">تعداد: ${x.count}</p>
-                                 <p class="count">قیمت واحد: ${x.price}</p>
+                                 <p class="count">قیمت واحد: ${x.unitPrice}</p>
                               </div>
                            </div >` ;
         cartItemsWrapper.append(product);

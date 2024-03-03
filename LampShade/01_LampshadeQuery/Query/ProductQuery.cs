@@ -37,6 +37,7 @@ namespace _01_LampshadeQuery.Query
             var discounts = _discountContext.CustomerDiscounts
                 .Where(x => x.StartDate < DateTime.Now && x.EndDate > DateTime.Now)
                 .Select(x => new { x.DiscountRate, x.ProductId }).ToList();
+
             var product = _context.Products
                 .Include(x => x.Category)
                 .Select(product => new ProductQueryModel
@@ -66,11 +67,12 @@ namespace _01_LampshadeQuery.Query
                 product.IsInStock = productInventory.InStock;
                 var price = productInventory.UnitPrice;
                 product.Price = price.ToMoney();
+                product.DoublePrice = price;
                 var discount = discounts.FirstOrDefault(x => x.ProductId == product.Id);
                 if (discount != null)
                 {
 
-                    int discountRate = discount.DiscountRate;
+                    var discountRate = discount.DiscountRate;
                     product.DiscountRate = discountRate;
                     product.HasDiscount = discountRate > 0;
                     var discountAmount = Math.Round((price * discountRate) / 100);
